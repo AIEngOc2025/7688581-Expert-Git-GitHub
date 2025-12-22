@@ -14,7 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Chrome
 Git 
 Editeur de texte (Sublime Text)
-ouvrir un compte personnel github
+
 ```
 
 ### Installation
