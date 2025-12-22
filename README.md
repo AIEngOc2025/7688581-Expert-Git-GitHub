@@ -15,7 +15,6 @@ Chrome
 Git 
 Editeur de texte (Sublime Text)
 ouvrir un compte personnel github
-...
 ```
 
 ### Installation
